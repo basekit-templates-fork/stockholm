@@ -1,2 +1,2 @@
-# Himalaya
+# Stockholm
 A standard BaseKit template.
